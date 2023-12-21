@@ -9,3 +9,5 @@ A podcast is a series of spoken word audio episodes that focus on various topics
 Specifically, our system allows users to upload podcasts in any language and seamlessly convert them into their preferred language for comprehension. Additionally, users can share podcasts publicly and explore content from others through our recommendation system. Leveraging recent advancements in machine learning technologies, we ensure excellent quality in the translated audio files.
 
 With the aid of cloud infrastructures, notably Amazon Web Services, we've engineered our platform to scale efficiently. This allows for seamless handling of podcast uploads, transcriptions, and recommendations, catering to millions of users.
+
+![failed to load image](https://github.com/lumr1426/cloud-final-project/blob/main/final_architecture.png?raw=true)
